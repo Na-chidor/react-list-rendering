@@ -1,0 +1,15 @@
+.item-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item-list li {
+  margin: 10px 0;
+  padding: 10px;
+  background: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
